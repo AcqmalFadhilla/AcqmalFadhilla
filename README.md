@@ -48,11 +48,16 @@
 </a>
 
 <h2>My statistics</h2>
+<div align="center">
 
-![AcqmalFadhilla GitHub stats](https://github-readme-stats.vercel.app/api?username=AcqmalFadhilla&show_icons=true&theme=tokyonight)
+ ![AcqmalFadhilla GitHub stats](https://github-readme-stats.vercel.app/api?username=AcqmalFadhilla&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AcqmalFadhilla&theme=tokyonight" alt="mystreak"/>
 ![AcqmalFahdilla Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AcqmalFadhilla&theme=tokyonight&layout=compact)
-
-
+</div>
+  
+ <h2>My Proyek</h2>
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AcqmalFadhilla&repo=Rock-Papper-Scissor.ML)](https://github.com/AcqmalFadhilla/Rock-Papper-Scissor.ML)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AcqmalFadhilla&repo=Data-time-series-using-LSTM)](https://github.com/AcqmalFadhilla/Data-time-series-using-LSTM)
 
 
