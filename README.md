@@ -59,5 +59,5 @@
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AcqmalFadhilla&repo=Rock-Papper-Scissor.ML)](https://github.com/AcqmalFadhilla/Rock-Papper-Scissor.ML)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AcqmalFadhilla&repo=Data-time-series-using-LSTM)](https://github.com/AcqmalFadhilla/Data-time-series-using-LSTM)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AcqmalFadhilla&repo=Detection-plant-diseases-MobileNet)](https://github.com/AcqmalFadhilla/Detection-plant-diseases-MobileNet)
 
